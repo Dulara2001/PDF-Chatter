@@ -1,6 +1,6 @@
 # PDF Chatter: Chatbot with PDF Integration
 
-## About the Project
+**Demo** : https://drive.google.com/file/d/1YBuxinEQnDV8rLmrChhmdVIbwKQ3PcUT/view?usp=sharing
 
 **PDF Chatter** is an innovative LLM application that allows users to interact with the content of PDF documents using a chatbot interface. The application leverages **Google gemini pro**, a powerful language model, to provide intelligent, context-aware responses based on the content extracted from the provided PDF file. Whether you’re looking to summarize a document, answer specific questions, or gain insights from lengthy text, **PDF Chatter** makes it easier and faster by allowing you to interact with PDF data naturally.
 
